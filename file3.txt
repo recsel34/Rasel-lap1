@@ -1,1 +1,1 @@
-This is file3.txt.
+This is the updated content for file3.txt.
